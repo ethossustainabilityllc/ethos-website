@@ -12,7 +12,7 @@ URLs match the GoDaddy site exactly, so old links keep working.
 |---|---|---|
 | `/` | `index.html` | Home |
 | `/solutions` | `solutions.html` | Solutions |
-| `/team-1` | `team-1.html` | Team |
+| `/team` | `team.html` | Team |
 | `/contact` | `contact.html` | Contact |
 | `/strategy` | `strategy.html` | linked from Solutions |
 | `/efficiencydecarb` | `efficiencydecarb.html` | linked from Solutions |
